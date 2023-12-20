@@ -5,10 +5,13 @@ This GitHub repository contains the source code and documentation for a PowerBI 
 ## Features
 * Sales Dashboard: The Sales Dashboard provides a comprehensive overview of sales performance over time. It includes visualizations such as revenue trends, product-wise sales distribution, and geographical sales analysis. The dashboard is designed to help stakeholders quickly grasp the key metrics and make informed decisions.
 
-![png](images\Dashboard.png)
+  
+![png](images/Dashboard.png)
 
 * Forecasting Dashboard: The Forecasting Dashboard leverages advanced time series analysis techniques to predict future sales trends. It incorporates machine learning models to provide accurate sales forecasts, enabling businesses to plan effectively and make proactive decisions.
-
+  
+  
+![png](images/Forecasting.png)
 
 ## Key Components
 * Time Series Analysis: The core of this project is the implementation of time series analysis techniques. The algorithms used for forecasting are detailed in the documentation, providing transparency into the methodology behind the predictions.
